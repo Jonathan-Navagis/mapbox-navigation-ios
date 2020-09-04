@@ -895,7 +895,6 @@
 		C51511D020EAC89D00372A91 /* CPMapTemplate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CPMapTemplate.swift; sourceTree = "<group>"; };
 		C51DF8651F38C31C006C6A15 /* Locale.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Locale.swift; sourceTree = "<group>"; };
 		C51FC31620F689F800400CE7 /* CustomStyles.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = CustomStyles.swift; path = Example/CustomStyles.swift; sourceTree = "<group>"; };
-		C520EE941EBBBD55008805BC /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = Base.lproj/Navigation.strings; sourceTree = "<group>"; };
 		C52AC1251DF0E48600396B9F /* RouteProgressTests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RouteProgressTests.swift; sourceTree = "<group>"; };
 		C53208AA1E81FFB900910266 /* NavigationMapView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; lineEnding = 0; path = NavigationMapView.swift; sourceTree = "<group>"; };
 		C5381F01204E03B600A5493E /* UIDevice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIDevice.swift; sourceTree = "<group>"; };
@@ -2764,7 +2763,6 @@
 		C520EE921EBB84F9008805BC /* Navigation.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				C520EE941EBBBD55008805BC /* en */,
 				C3EEA76B25029817002BC045 /* en */,
 			);
 			name = Navigation.storyboard;
